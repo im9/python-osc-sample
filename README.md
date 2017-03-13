@@ -7,6 +7,7 @@ Simple OSC server and client using Python
 ## Stack
 
 python 2.7
+pip 9.0.1
 
 ## Usage
 
